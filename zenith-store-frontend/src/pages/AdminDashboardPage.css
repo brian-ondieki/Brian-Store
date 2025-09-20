@@ -1,0 +1,9 @@
+.admin-dashboard {
+  display: flex;
+}
+.admin-main-content {
+  flex-grow: 1;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: #f4f4f4;
+}
